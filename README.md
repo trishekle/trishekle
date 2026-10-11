@@ -1,4 +1,4 @@
-# Hi, I'm Trisha 👋
+# Hi, I'm Trisha! :D
 
 **BSc in Artificial Intelligence, Data & Management Sciences @ CentraleSupélec × ESSEC.**
 Interested in data science, data-driven product design, and anomaly-related algorithms.
