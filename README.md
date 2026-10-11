@@ -39,9 +39,3 @@ I like **data science, data-driven product design, and anomaly-related algorithm
 
 ### 🍄 Also tending to
 Interactive dashboards (Plotly, Power BI) · time-series & EDA · neural nets (ANNs, CNNs, GANs) · reproducible, Git-driven workflows
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishekle&show_icons=true&hide_border=true&theme=transparent" />
-</p>
