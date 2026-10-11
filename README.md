@@ -15,7 +15,7 @@ I like **data science, data-driven product design, and anomaly-related algorithm
 
 ---
 
-### 🧺 What I've grown
+### 🧺 Projects
 
 | | |
 |---|---|
