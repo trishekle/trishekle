@@ -35,7 +35,3 @@ Interactive dashboards (Plotly, Power BI) · time-series & EDA · neural nets (A
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/trisha-dandapat/)
-
----
-
-![Trisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=trishekle&show_icons=true&hide_border=true)
