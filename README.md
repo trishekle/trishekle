@@ -1,21 +1,31 @@
-# Hi, I'm Trisha! :D
+![banner](<img width="1200" height="218" alt="image" src="https://github.com/user-attachments/assets/91ada306-2e19-4efc-9478-9d9ed5b363e1" />)
 
-**BSc in Artificial Intelligence, Data & Management Sciences @ CentraleSupélec × ESSEC.**
-Interested in data science, data-driven product design, and anomaly-related algorithms.
-
----
-
-### 🔭 Projects
-
-**🛡️ [Kestrel](https://github.com/trishekle/Kestrel)** — a bodyguard for AI agents (Secure Horizons 2026 Hackathon)
-A five-layer guard that supervises what an AI agent *does* across its tool chain, blocks data-exfiltration attacks deterministically, and escalates uncertain cases to a human analyst.
-→ Cut attack success from **100% → 14%** in live tests on Claude via **Amazon Bedrock**.
-
-**🎵 Artist Disambiguation** *(ongoing)* — something with graphs, music metadata, and untangling who's really who.
+<p align="center">
+  <a href="https://www.linkedin.com/in/trisha-dandapat/"><img src="https://img.shields.io/badge/LinkedIn-6B8E5A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/trishekle"><img src="https://img.shields.io/badge/GitHub-5C4033?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🛠️ Tech
+## 🌿 Hi! I'm Trisha
+
+**AI, Data & Management Sciences undergrad** @ CentraleSupélec × ESSEC *(Class of 2029)*.
+
+I like **data science, data-driven product design, and anomaly-related algorithms**, finding the quiet signal in messy data and growing it into something that actually works and ships. 
+
+---
+
+### 🧺 What I've grown
+
+| | |
+|---|---|
+| **🛡️ [Kestrel](https://github.com/trishekle/Kestrel)** | A bodyguard for AI agents (Secure Horizons 2026 × AWS). A five-layer guard that watches what an agent *does* across its tool chain and blocks data exfiltration. **Cut attack success 100% → 14%** on Claude via Amazon Bedrock. |
+| **🔤 [Vanity Plate Classifier](https://github.com/trishekle/DMV-Classifier-model)** | An end-to-end NLP pipeline (TF-IDF, LinearSVC) that flags inappropriate plates, deployed as a Flask app. |
+| **🎵 Artist Disambiguation** *(ongoing)* | Graphs, music metadata, and untangling who's really who.|
+
+---
+
+### 🌾 Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -28,10 +38,11 @@ A five-layer guard that supervises what an AI agent *does* across its tool chain
 
 ---
 
-### 🌱 Also into
+### 🍄 Also tending to
 Interactive dashboards (Plotly, Power BI) · time-series & EDA · neural nets (ANNs, CNNs, GANs) · reproducible, Git-driven workflows
 
 ---
 
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/trisha-dandapat/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trishekle&show_icons=true&hide_border=true&theme=transparent" />
+</p>
