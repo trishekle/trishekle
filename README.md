@@ -7,7 +7,7 @@ Interested in data science, data-driven product design, and anomaly-related algo
 
 ### 🔭 Projects
 
-**🛡️ [Kestrel](https://github.com/trishekle/Kestrel)** — a bodyguard for AI agents (Secure Horizons 2026 × AWS)
+**🛡️ [Kestrel](https://github.com/trishekle/Kestrel)** — a bodyguard for AI agents (Secure Horizons 2026 Hackathon)
 A five-layer guard that supervises what an AI agent *does* across its tool chain, blocks data-exfiltration attacks deterministically, and escalates uncertain cases to a human analyst.
 → Cut attack success from **100% → 14%** in live tests on Claude via **Amazon Bedrock**.
 
