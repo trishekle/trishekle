@@ -11,9 +11,6 @@ Interested in data science, data-driven product design, and anomaly-related algo
 A five-layer guard that supervises what an AI agent *does* across its tool chain, blocks data-exfiltration attacks deterministically, and escalates uncertain cases to a human analyst.
 → Cut attack success from **100% → 14%** in live tests on Claude via **Amazon Bedrock**.
 
-**🔤 [Vanity Plate Classifier](https://github.com/trishekle/DMV-Classifier-model)**
-End-to-end NLP pipeline (TF-IDF, LinearSVC) that flags inappropriate vanity plates, deployed as a Flask web app.
-
 **🎵 Artist Disambiguation** *(ongoing)* — something with graphs, music metadata, and untangling who's really who.
 
 ---
