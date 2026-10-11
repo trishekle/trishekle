@@ -1,4 +1,4 @@
-![banner](<img width="1200" height="218" alt="image" src="https://github.com/user-attachments/assets/91ada306-2e19-4efc-9478-9d9ed5b363e1" />)
+![banner](<08704cc74cc80fade542602de55f76e7.jpg>)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/trisha-dandapat/"><img src="https://img.shields.io/badge/LinkedIn-6B8E5A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
