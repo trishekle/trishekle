@@ -14,7 +14,7 @@ A five-layer guard that supervises what an AI agent *does* across its tool chain
 **🔤 [Vanity Plate Classifier](https://github.com/trishekle/DMV-Classifier-model)**
 End-to-end NLP pipeline (TF-IDF, LinearSVC) that flags inappropriate vanity plates, deployed as a Flask web app.
 
-**🎵 Artist Disambiguation** *(ongoing)* — something with graphs, music metadata, and untangling who's really who. More soon. 👀
+**🎵 Artist Disambiguation** *(ongoing)* — something with graphs, music metadata, and untangling who's really who.
 
 ---
 
