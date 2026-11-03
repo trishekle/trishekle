@@ -20,7 +20,7 @@ I like **data science, data-driven product design, and anomaly-related algorithm
 | | |
 |---|---|
 | **🛡️ [Kestrel](https://github.com/trishekle/Kestrel)** | A bodyguard for AI agents (Secure Horizons 2026). A five-layer guard that watches what an agent *does* across its tool chain and blocks data exfiltration. **Cut attack success 100% → 14%** on Claude via Amazon Bedrock. |
-| **🎵 [Artist Disambiguation](https://github.com/trishekle/Artist-name-Disambigutation)** *(ongoing)* | Metadata-only graph analysis to flag misattributed tracks among same-name Spotify artists.|
+| **🎵 [Artist Disambiguation](https://github.com/trishekle/Artist-name-Disambigutation)** | Metadata-only graph analysis to flag misattributed tracks among same-name Spotify artists.|
 
 ---
 
